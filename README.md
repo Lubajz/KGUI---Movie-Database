@@ -1,7 +1,7 @@
 # KGUI - Semestrální práce 
 ## Luboš Kemr
 
-Jednoduchá aplikace pro načítání dat z API https://developer.themoviedb.org/reference/discover-movie a uložení do DB.
+Jednoduchá aplikace pro načítání dat z API https://developer.themoviedb.org/reference/discover-movie a uložení do DB (sqlite3).
 Následné načtení dat a zpracování v podobě grafů či tabulky.
 Vytvořeno převážně pomocí tkinteru a asyncio pro asynchronní volání API.
 
