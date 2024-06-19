@@ -19,7 +19,7 @@ Zobrazení načtených filmů z API ve scrollovatelné tabulce eřazené dle abe
 #### Grafy
 Obrazovka se 4 grafy. 
 Hlavní graf zobrazuje top 15 filmů s největší popularitou dle pole **popularity**.
-Menší grafy zobrazují top 3 filmy dle: - počtů hodnocení - **vote_count**
-                                       - průměrného hodnocení - **vote_average**
-                                       - nejvíc vyskytované žánry - **genre**
+Menší grafy zobrazují top 3 filmy dle: -  počtů hodnocení - **vote_count**
+                                       -   průměrného hodnocení - **vote_average**
+                                       -   nejvíc vyskytované žánry - **genre**
 
